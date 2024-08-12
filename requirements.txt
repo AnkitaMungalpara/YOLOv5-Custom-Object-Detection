@@ -1,0 +1,21 @@
+# Core libraries
+pandas
+numpy
+
+# Machine Learning
+tensorflow
+torch
+
+# Computer Vision
+opencv-python
+opencv-python-headless
+
+# Visualization
+matplotlib
+tqdm
+
+# Google Colab specific
+google-colab
+
+# IPython tools
+ipython
