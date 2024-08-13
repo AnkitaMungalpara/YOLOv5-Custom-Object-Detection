@@ -1,6 +1,6 @@
 
 
-# YOLOv5 Custom Object Detection Project
+# YOLOv5 Custom Object Detection 
 
 
 This project focuses on training a custom YOLOv5 model to detect specific clothing accessories, including shirts, pants, shoes, handbags, and sunglasses. The project involves data annotation, model training, and running inference on new images to identify and classify these objects.
@@ -78,13 +78,13 @@ Once you have completed the annotations, you can export them in YOLO format. If 
 
 Here’s an image demonstrating how you can export the annotations in YOLO format from Label Studio:
 
-![Export Annotations in YOLO Format](utils/images/image2.png)
+![Export Annotations in YOLO Format](utils/images/labelstudiooptions.png)
 
 ### 2. Training the YOLOv5 Model
 
 The YOLOv5 model is trained using the annotated dataset. YOLOv5 provides five pre-defined models (nano, small, medium, large, and extra-large) to choose from, depending on your needs.
 
-To train the YOLOv5-small model, follow the steps outlined in the [YOLOv5 documentation](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#scrollTo=ZY2VXXXu74w5). Customize the `.yaml` file to include your classes and dataset paths:
+To train the YOLOv5 model, follow the steps outlined in the [YOLOv5 documentation](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb#scrollTo=ZY2VXXXu74w5). Customize the `.yaml` file to include your classes and dataset paths:
 
 ```yaml
 # Number of classes
