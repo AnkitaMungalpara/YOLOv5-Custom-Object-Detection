@@ -1,11 +1,8 @@
-
-
 # YOLOv5 Custom Object Detection 
-
 
 This project focuses on training a custom YOLOv5 model to detect specific clothing accessories, including shirts, pants, shoes, handbags, and sunglasses. The project involves data annotation, model training, and running inference on new images to identify and classify these objects.
 
-## Project Structure
+## Project Directory Structure
 
 ```bash
 .
@@ -66,11 +63,11 @@ Each bounding box is stored in the YOLOv5 format, with normalized values for the
 #### **Annotation Process Demonstration**
 
 
-Below is a demo video that shows the data annotation process using Kili-Technology. This video guides you through drawing bounding boxes and assigning labels:
+Below is a demo image that shows the data annotation process using Label Studio. This image guides you through drawing bounding boxes and assigning labels:
 
-[![Data Annotation Demo](utils/images/image1.png)](utils/video/Data_Annotation.m4v)
+![Data Annotation Demo](utils/images/image1.png)
 
-*Click on the image above to watch the video.*
+*Click on the image above to see how to do annotation.*
 
 #### **Exporting Annotations in YOLO Format**
 
@@ -78,7 +75,9 @@ Once you have completed the annotations, you can export them in YOLO format. If 
 
 Here’s an image demonstrating how you can export the annotations in YOLO format from Label Studio:
 
-![Export Annotations in YOLO Format](utils/images/labelstudiooptions.png)
+
+![Export Annotations in YOLO Format](utils/images/studiooptions.png)
+
 
 ### 2. Training the YOLOv5 Model
 
