@@ -1,3 +1,6 @@
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection/raw/main/YOLO_object_detection.ipynb)
+
 # YOLOv5 Custom Object Detection 
 
 This project focuses on training a custom YOLOv5 model to detect specific clothing accessories, including shirts, pants, shoes, handbags, and sunglasses. The project involves data annotation, model training, and running inference on new images to identify and classify these objects.
