@@ -1,5 +1,5 @@
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection/raw/main/YOLO_object_detection.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AnkitaMungalpara/YOLOv5-Custom-Object-Detection/build/main/YOLO_object_detection.ipynb)
 
 # YOLOv5 Custom Object Detection 
 
